@@ -6,7 +6,7 @@ Estructura centralizada para el analisis de homicidios en Colombia, basada en un
 
 -- Diseño DataWereHouse Homicidios en Colombia
 
--- Modelo ER: Esquema del modelo Entidad-Relacion con enfoque en Copo de Nieve, que organiza las relaciones entre dimensiones y hechos del sistema analitico.
+-- Esquema del modelo Entidad-Relacion con enfoque en Copo de Nieve, que organiza las relaciones entre dimensiones y hechos del sistema analitico.
 
 ![Diseño](DataWhereHouse_Homicidios.png)
 ![Modelo ER](diagrama_er.png)

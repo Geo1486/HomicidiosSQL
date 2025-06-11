@@ -1,6 +1,6 @@
 # Scripts : 
 
-Contiene los comandos SQL para la creacion de las tablas que son base apra el analisis de los datos. 
+Contiene los comandos SQL para la creacion de las tablas que son base para el analisis de los datos. 
 
 1. Dim_departamentos_create.sql
 2. Dim_departamentos_insert.sql
